@@ -1,0 +1,334 @@
+{
+    "liste des joueurs": [
+        "Albin",
+        "Celia",
+        "Gautier",
+        "Joshua",
+        "Victor"
+    ],
+    "parties": [
+        {
+            "date": "10-02-2024",
+            "equipe_1": [
+                "Joshua",
+                "Gautier"
+            ],
+            "equipe_2": [
+                "Victor",
+                "Albin"
+            ],
+            "manches": [
+                {
+                    "equipe_1": 50,
+                    "equipe_2": 50,
+                    "grand_tichu_reussi": "none",
+                    "grand_tichu_rate": [
+                        "Albin",
+                        "Gautier"
+                    ],
+                    "tichu_reussi": "Gautier",
+                    "tichu_rate": [
+                        "Gautier",
+                        "Victor"
+                    ],
+                    "premier": "Joshua",
+                    "deuxieme": "Albin",
+                    "troisieme": "Victor",
+                    "quatrieme": "Gautier"
+                }
+            ]
+        }
+    ],
+    "statistiques": {
+        "Albin": {
+            "Celia": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Gautier": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Joshua": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Victor": {
+                "manches_jouees": 1,
+                "points_gagnes": 50,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 1,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 1,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            }
+        },
+        "Celia": {
+            "Albin": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Gautier": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Joshua": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Victor": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            }
+        },
+        "Gautier": {
+            "Albin": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Celia": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Joshua": {
+                "manches_jouees": 1,
+                "points_gagnes": 50,
+                "tichu_reussi": 1,
+                "tichu_rate": 1,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 1,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 1
+                }
+            },
+            "Victor": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            }
+        },
+        "Joshua": {
+            "Albin": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Celia": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Gautier": {
+                "manches_jouees": 1,
+                "points_gagnes": 50,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 1,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Victor": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            }
+        },
+        "Victor": {
+            "Albin": {
+                "manches_jouees": 1,
+                "points_gagnes": 50,
+                "tichu_reussi": 0,
+                "tichu_rate": 1,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 1,
+                    "quatrieme": 0
+                }
+            },
+            "Celia": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Gautier": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            },
+            "Joshua": {
+                "manches_jouees": 0,
+                "points_gagnes": 0,
+                "tichu_reussi": 0,
+                "tichu_rate": 0,
+                "grand_tichu_reussi": 0,
+                "grand_tichu_rate": 0,
+                "positions": {
+                    "premier": 0,
+                    "deuxieme": 0,
+                    "troisieme": 0,
+                    "quatrieme": 0
+                }
+            }
+        }
+    }
+}
